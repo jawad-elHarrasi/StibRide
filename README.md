@@ -33,5 +33,5 @@ To run or develop this project, you will need:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/user/stib-metro-route-finder.git
+git clone https://github.com/jawad-elHarrasi/StibRide.git
 cd stibRide
